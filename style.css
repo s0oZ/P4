@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -767,24 +767,24 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #283358;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #B55F26;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #DC8F5B!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #B55F26;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #B55F26!important;
     color: #FFFFFF!important;
 }
 
@@ -806,7 +806,7 @@ h4 {
 
 .icon-dark-slate-blue {
     color: #364577!important;
-    border-color: #364577!important;
+    border-color: #283358!important;
 }
 
 .bg-dots-bg {
